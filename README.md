@@ -1,7 +1,17 @@
 #  :star2: github-starmap
 Python utility to export a user's starred repositories list into a CSV file
 
-### :books: Usage
+### Install
+
+```bash
+> git clone https://github.com/khast3x/github-starmap.git
+> cd github-starmap
+# Explicit python version for older systems
+> pip3 install -r requirements.txt
+> python3 startmap.py --help
+```
+
+### Usage
 
 ```bash
 > python starmap.py --help
