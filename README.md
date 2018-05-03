@@ -40,8 +40,8 @@ optional arguments:
 
 [![asciicast](https://asciinema.org/a/179526.png)](https://asciinema.org/a/179526)
 
-![demo1][./demo/Stars1_demo.svg]
+#### :arrow_double_down: Made using [RAWGraphs](https://app.rawgraphs.io)
+
 <img src="./demo/Stars1_demo.svg">
 
-![demo2][./demo/Stars2_demo.svg]
 <img src="./demo/Stars2_demo.svg">
