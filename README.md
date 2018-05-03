@@ -8,7 +8,7 @@ Python utility to export a user's starred repositories list into a CSV file
 > cd github-starmap
 # Explicit python version for older systems
 > pip3 install -r requirements.txt
-> python3 startmap.py --help
+> python3 starmap.py --help
 ```
 
 ### Usage
