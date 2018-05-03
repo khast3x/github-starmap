@@ -39,8 +39,9 @@ optional arguments:
 ### :movie_camera: Demo
 
 [![asciicast](https://asciinema.org/a/179526.png)](https://asciinema.org/a/179526)
-![demo1][./demo/Star1_demo.svg]
-<img src="./demo/Star1_demo.svg">
 
-![demo2][./demo/Star2_demo.svg]
-<img src="./demo/Star2_demo.svg">
+![demo1][./demo/Stars1_demo.svg]
+<img src="./demo/Stars1_demo.svg">
+
+![demo2][./demo/Stars2_demo.svg]
+<img src="./demo/Stars2_demo.svg">
